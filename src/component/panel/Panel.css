@@ -1,0 +1,10 @@
+.panel{
+background-color: #fff;
+box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+border-radius: 8px;
+font-family: sans-serif;
+
+}
+.panel-has-padding{
+  padding: 1rem;
+}
